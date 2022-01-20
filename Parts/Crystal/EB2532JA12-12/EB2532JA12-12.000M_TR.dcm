@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EB2532JA12-12.000M_TR
+D Crystal Resonator 12MHz +/-15ppm (Tol) +/-30ppm (Stability) 12pF FUND 100Ohm Automotive 4-Pin CSMD T/R
+K
+F https://abracon.com/datasheets/Ecliptek/EB2532.pdf
+$ENDCMP
+#
+#End Doc Library

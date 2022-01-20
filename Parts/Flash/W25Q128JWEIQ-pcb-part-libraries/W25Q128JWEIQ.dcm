@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W25Q128JWEIQ
+D NOR Flash spiFlash, 128M-bit, 4Kb Uniform Sector
+K
+F https://www.mouser.com/datasheet/2/949/W25Q128JW_RevB_11042019-1761358.pdf
+$ENDCMP
+#
+#End Doc Library

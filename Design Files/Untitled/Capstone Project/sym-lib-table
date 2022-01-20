@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "2021-12-28_21-22-16")(type "Legacy")(uri "/Users/shayakchakrabarti/Documents/School/Fourth Year/ELEC 491/Parts/Sensor/ul_MMC5603NJ/KiCAD/2021-12-28_21-22-16/2021-12-28_21-22-16.lib")(options "")(descr ""))
+  (lib (name "2305018-2")(type "Legacy")(uri "/Users/shayakchakrabarti/Documents/School/Fourth Year/ELEC 491/Parts/USB C Connector/2305018-2/2305018-2.lib")(options "")(descr ""))
+  (lib (name "BQ25700ARSNT")(type "Legacy")(uri "/Users/shayakchakrabarti/Documents/School/Fourth Year/ELEC 491/Parts/PD Controller/BQ25700ARSNT-pcb-part-libraries/BQ25700ARSNT.lib")(options "")(descr ""))
+  (lib (name "EB2532JA12-12.000M_TR")(type "Legacy")(uri "/Users/shayakchakrabarti/Documents/School/Fourth Year/ELEC 491/Parts/Crystal/EB2532JA12-12/EB2532JA12-12.000M_TR.lib")(options "")(descr ""))
+  (lib (name "W25Q128JWEIQ")(type "Legacy")(uri "/Users/shayakchakrabarti/Documents/School/Fourth Year/ELEC 491/Parts/Flash/W25Q128JWEIQ-pcb-part-libraries/W25Q128JWEIQ.lib")(options "")(descr ""))
+)

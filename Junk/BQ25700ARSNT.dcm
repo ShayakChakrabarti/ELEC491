@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25700ARSNT
+D NVDC SMBus Battery Buck-Boost Charge Controller with System Power Monitor & Processor
+K
+F http://www.ti.com/lit/gpn/bq25700a
+$ENDCMP
+#
+#End Doc Library

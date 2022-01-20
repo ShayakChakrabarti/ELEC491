@@ -1,0 +1,18 @@
+.BQ25700ARSNT :1 ;NVDC SMBus Battery Buck-Boost Charge Controller with System Power Monitor & Processor
+QFN40P400X400X80-33N-D
+*STM IC
+*NGS
+*PLB 1="VBUS" 2="ACN" 3="ACP" 4="CHRG_OK" 5="EN_OTG" 6="ILIM_HIZ" 7="VDDA" 8="IADPT" 9="IBAT" 10="PSYS" 11="'PROCHOT'" 12="SDA" 13="SCL" 14="CMPIN" 15="CMPOUT" 16="COMP1" 17="COMP2" 18="CELL_BATPRESZ" 19="SRN" 20="SRP" 21="'BATDRV'" 22="VSYS" 23="SW2" 24="HIDRV2" 25="BTST2" 26="LODRV2" 27="PGND" 28="REGN" 29="LODRV1" 30="BTST1" 31="HIDRV1" 32="SW1" 33="EP"
+*MXP 33
+*DFN BQ25700ARSNT
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ25700ARSNT)
+~!Mouser Part Number (595-BQ25700ARSNT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ25700ARSNT?qs=5aG0NVq1C4w7NioJL166ZA%3D%3D)
+~!Arrow Part Number (BQ25700ARSNT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bq25700arsnt/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/bq25700a)
+~!Height (0.8mm)
+~!3D_Model (BQ25700ARSNT)
+BQ25700ARSNT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

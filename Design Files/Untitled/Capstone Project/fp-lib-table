@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "${CAPSTONE}/Rapberry PI/ul_RP2040TR13/KiCAD/2021-12-28_21-11-30/footprints.pretty")(options "")(descr ""))
+  (lib (name "2305018-2")(type "KiCad")(uri "${CAPSTONE}/USB C Connector/2305018-2")(options "")(descr ""))
+  (lib (name "footprints-1")(type "KiCad")(uri "${CAPSTONE}/Sensor/ul_MMC5603NJ/KiCAD/2021-12-28_21-22-16/footprints.pretty")(options "")(descr ""))
+  (lib (name "BQ25700ARSNT-pcb-part-libraries")(type "KiCad")(uri "${CAPSTONE}/PD Controller/BQ25700ARSNT-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "W25Q128JWEIQ-pcb-part-libraries")(type "KiCad")(uri "${CAPSTONE}/Flash/W25Q128JWEIQ-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "EB2532JA12-12")(type "KiCad")(uri "${CAPSTONE}/Crystal/EB2532JA12-12")(options "")(descr ""))
+)
